@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nhl/Downloads/CIS 2107/lab5",
+      "program": "/Users/nhl/Downloads/CIS 2107/lab5/build/Debug/outDebug"
+    }
+  ]
+}
